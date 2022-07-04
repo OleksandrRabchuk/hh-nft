@@ -1,0 +1,28 @@
+[{
+  "name": "BULK",
+  "description": "good boy",
+  "image": "ipfs://QmafqH2U4EhTZf3DgfCMvKHQ5nbEQ52YTNKMHu4Z2nBgfN",
+  "attributes": [{
+    "speed_type": "fast",
+    "value": "20"
+  }]
+},
+{
+  "name": "Rafle",
+  "description": "bad boy",
+  "image": "ipfs://Qmesiq8SzJFJGU31SkeFXV6Tyjq2nQDk6RRark9YmGaysy",
+  "attributes": [{
+    "speed_type": "slow",
+    "value": "2"
+  }]
+},
+  {
+    "name": "Picky",
+    "description": "avarage",
+    "image": "ipfs://QmNTQyYHdPVAjM2t9ywv5A37yDJRr3iPvwi2NjM6zz7g7y",
+    "attributes": [{
+      "speed_type": "slow",
+      "value": "2"
+    }]
+  }
+]
