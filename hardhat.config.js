@@ -26,6 +26,8 @@ module.exports = {
       chainId: 4,
       blockConfirmations: 6,
       url: RINKEBY_RPC_URL,
+      gas: 2100000,
+      gasPrice: 8000000000,
       accounts: PRIVATE_KEY !== undefined ? [PRIVATE_KEY] : [],
     },
     localhost: {
